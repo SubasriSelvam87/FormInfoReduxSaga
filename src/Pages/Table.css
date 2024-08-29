@@ -1,0 +1,23 @@
+table{
+    background-color: transparent !important;
+    border-collapse: collapse;
+    box-shadow: 1px 10px 100px  grey;
+}
+
+th,td{
+    background-color: transparent !important;
+    color: aliceblue !important;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tableBtn{
+    border: none !important;
+}
+td{
+    text-align: center !important;
+}

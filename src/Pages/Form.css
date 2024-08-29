@@ -1,0 +1,48 @@
+body{
+    background-image: url('C:\Users\subas\OneDrive\Documents\E-BRAIN\Redux\Crud\crud\src\assets\square.jpeg');
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 80px !important;
+}
+
+form{
+    border: 1px solid aliceblue;
+    padding: 20px;
+    box-shadow: 1px 10px 100px  grey;
+    margin-bottom: 10px;
+}
+
+label{
+color: aliceblue;
+font-family: monospace;
+}
+
+input,span{
+    background-color: transparent !important;
+    color: aliceblue !important;
+}
+
+select{
+    background-color: transparent !important;
+    color: aliceblue !important;
+}
+
+option{
+    color: black !important;
+}
+
+.error{
+    color:red !important;
+}
+
+.formBtn{
+    background-color: transparent;
+    border: 3px solid aliceblue !important;
+    background-image: radial-gradient(black,#1a7e6f);
+}
+
